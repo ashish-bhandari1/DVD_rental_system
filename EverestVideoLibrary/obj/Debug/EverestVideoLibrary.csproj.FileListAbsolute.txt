@@ -1,0 +1,167 @@
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\EverestVideoLibrary.dll.config
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\EverestVideoLibrary.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\EverestVideoLibrary.pdb
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csc.exe
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csc.exe.config
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csc.rsp
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csi.exe
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csi.exe.config
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\csi.rsp
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Console.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\vbc.exe
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\vbc.exe.config
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\vbc.rsp
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csprojAssemblyReference.cache
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csproj.CopyComplete
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.dll
+C:\Users\Ceema\source\repos\EverestVideoLibrary\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.pdb
+D:\Application Development\coding\EverestVideoLibrary\bin\EverestVideoLibrary.dll.config
+D:\Application Development\coding\EverestVideoLibrary\bin\EverestVideoLibrary.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\EverestVideoLibrary.pdb
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csc.exe
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csc.exe.config
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csc.rsp
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csi.exe
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csi.exe.config
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\csi.rsp
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.AppContext.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Console.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.IO.Compression.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.AccessControl.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Claims.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.ValueTuple.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\vbc.exe
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\vbc.exe.config
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\vbc.rsp
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe
+D:\Application Development\coding\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Development\coding\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Development\coding\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Development\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csprojAssemblyReference.cache
+D:\Application Development\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csproj.CoreCompileInputs.cache
+D:\Application Development\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csproj.CopyComplete
+D:\Application Development\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.dll
+D:\Application Development\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.pdb
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\EverestVideoLibrary.dll.config
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\EverestVideoLibrary.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\EverestVideoLibrary.pdb
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csc.exe
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csc.exe.config
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csc.rsp
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csi.exe
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csi.exe.config
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\csi.rsp
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.AppContext.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Console.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.IO.Compression.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.IO.Pipes.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.AccessControl.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Claims.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.ValueTuple.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\vbc.exe
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\vbc.exe.config
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\vbc.rsp
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csprojAssemblyReference.cache
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csproj.CoreCompileInputs.cache
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.csproj.CopyComplete
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.dll
+D:\Application Development\coursework 2\coding\EverestVideoLibrary\obj\Debug\EverestVideoLibrary.pdb

@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EverestVideoLibrary._1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEAAAAAAAAIAAAAAAAAAQAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._10">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAQAAAAAAAAAAgAAAAQQAAAAgAAAAIAAAA=</HashCode>
+      <FileName>10.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._11">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>11.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._12">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>12.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._13">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>13.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._2">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAYAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>2.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._3">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAEAAQAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>3.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._4">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>4.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._5">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAACAAAAAAAAAAAAAQAQAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>5.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._6">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIABEEABEAAOAAAQAAAACCAAAKAQAAAAAgAABAKAAQA=</HashCode>
+      <FileName>6.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._7">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIABAAAAMAAQAAAAAAAAAAAAIIAQAAAAAgAAAAIAAQQ=</HashCode>
+      <FileName>7.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary._8">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAEAAAIAAAA=</HashCode>
+      <FileName>8.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.adminLogin">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAAAAAgAAAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>adminLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Cast">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEiAAAAAAAAAAAAAAAACAAAAAABQAAEAAgAAAEIAAgA=</HashCode>
+      <FileName>Cast.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.DVD">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAEAKEAAIIAAAQAAAAAAAAAEQAAMAAgAAAMIAAEA=</HashCode>
+      <FileName>DVD.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.dvdCopy">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAGAAQAAAEAAAAAAAAAAAQAAEACgAAAEIAAAA=</HashCode>
+      <FileName>dvdCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.home">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>home.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Loan">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEEiEAgQAAAAAAAAAAgAACAQAAEAAgEAAEKAAAA=</HashCode>
+      <FileName>Loan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.LoanType">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAAAAKCAgAQAAAAAQAAEAAAAAAEYAAIA=</HashCode>
+      <FileName>LoanType.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.ManageUser">
+    <Position X="4" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMgAAAAAEAAgAAAAgAAAAAAAIAAQAAEAAAAAAEIAAAA=</HashCode>
+      <FileName>ManageUser.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Member">
+    <Position X="11" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEiABAAAEAACAAAAAAAAAAAAAABQAAEgAgAAAEIABAA=</HashCode>
+      <FileName>Member.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.MemberCategory">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAABAAAAAAAAAABAAAAAAQAAECAAAAAEIAAAA=</HashCode>
+      <FileName>MemberCategory.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Producer">
+    <Position X="11" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAAAAAAAAAAAAAAgAAAAQEAEAAAAAAEIAAAA=</HashCode>
+      <FileName>Producer.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Site1">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAgEAAgAAgAAAAAAQR4AAIBBAIBAAAAgMAAgA=</HashCode>
+      <FileName>Site1.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.Studio">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAAAAAAAAEAAAAAAAYAAEAAAAAAEIAAAA=</HashCode>
+      <FileName>Studio.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.User">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAJAAACAAAAAAAAAgAAAAAQAAAAAEAIAMAAAA=</HashCode>
+      <FileName>User.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.UserLogin">
+    <Position X="2.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAgAAAAAUAAAAAAAAAMAAAA=</HashCode>
+      <FileName>UserLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EverestVideoLibrary.userProfile">
+    <Position X="5.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAACAAAAAAAAAoAAABEUEAAAAAAIEIAAAA=</HashCode>
+      <FileName>userProfile.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Web.UI.Page" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
